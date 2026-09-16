@@ -1,0 +1,127 @@
+English,Singlish_Word_Phrase,Context_Usage,Sentiment Analysis
+Welcome / Hello,Ayubowan,Greeting,Positive
+Thank you,Istuti,Expression of gratitude,Positive
+How are you?,Kohomada?,Casual greeting,Positive
+I am fine.,Mama hodinn innawa.,Response to greeting,Positive
+What is your name?,Oyaage nama mokakda?,Asking someone's name,Neutral
+My name is...,Mage nama...,Introducing oneself,Neutral
+Where are you going?,Oya koheda yanne?,Asking destination,Neutral
+I am going home.,Mama gedara yanawa.,Stating destination,Neutral
+How much is this?,Meka kiyada?,Asking price,Neutral
+It is too expensive.,Meka gana wadi.,Negotiating price,Neutral
+Can you give a discount?,Adubakaranna puluwanda?,Negotiating price,Neutral
+Yes,Ow,Affirmation,Positive
+No,Nae,Negation,Neutral
+Please,Karunakara,Polite request,Positive
+Excuse me / Sorry,Samawanna,Apologizing or getting attention,Neutral
+Goodbye,Gihin ennam,Farewell,Positive
+See you later,Nawata hamuwemu,Farewell,Positive
+I don't know,Mama danne nae,Lack of knowledge,Neutral
+Do you speak English?,Oya ingrisi katha karanawada?,Language barrier query,Neutral
+Where is the restroom?,Wasi kiliya koheda thiyenne?,Asking for directions,Neutral
+Help me,Mata udaw කරන්න (karanna),Emergency or assistance,Urgent
+I am hungry,Mata badagini,Expressing hunger,Neutral
+I am thirsty,Mata thariwasa (thibaha),Expressing thirst,Neutral
+Water,Wathura,Common noun,Neutral
+Food,Kema,Common noun,Neutral
+Tea,Thee,Common noun,Neutral
+Rice and Curry,Bath saha Curry,Common noun (Local cuisine),Neutral
+Bus,Bus eka,Transportation,Neutral
+Train,Kochi eka,Transportation,Neutral
+Three-wheeler / Tuk-tuk,Trishaw eka,Transportation,Neutral
+Where is the station?,Station eka koheda?,Asking for directions,Neutral
+Stop here,Methana nawaththanna,Directing a driver,Neutral
+Go straight,Kelinnama yanna,Directing a driver,Neutral
+Turn left,Wamatha harenna,Directing a driver,Neutral
+Turn right,Dakunata harenna,Directing a driver,Neutral
+Slowly,Hemin,Speed instruction,Neutral
+Fast,Ikmanata,Speed instruction,Neutral
+Beautiful,Lassanai,Compliment,Positive
+Good,Hodai,Approval,Positive
+Bad,Narakai,Disapproval,Negative
+Friend,Yaluwa,Relationship,Positive
+Mother,Amma,Family,Positive
+Father,Thaththa,Family,Positive
+Brother,Aiya / Malli,Family (Older/Younger),Positive
+Sister,Akka / Nangi,Family (Older/Younger),Positive
+Today,Ada,Time reference,Neutral
+Tomorrow,Heta,Time reference,Neutral
+Yesterday,Iye,Time reference,Neutral
+What time is it?,Weleki kiyada? / Welawa kiyada?,Asking time,Neutral
+I like this,Mama mekata kamati,Expressing preference,Positive
+I don't like this,Mama mekata kamati nae,Expressing preference,Negative
+Can you help me?,Mata udaw karanna puluwanda?,Asking for assistance,Neutral
+Where can I buy this?,Meka kohenda ganna puluwan?,Shopping inquiry,Neutral
+It's very hot today,Ada godak rathne (rasnei),Weather reference,Neutral
+It's raining,Wahinawa,Weather reference,Neutral
+Are you ready?,Oya lasthida?,Readiness check,Neutral
+I am ready,Mama lasthidi,Readiness confirmation,Positive
+No problem / It's okay,Prashnayak nae,Reassurance,Positive
+What happened?,Mokada unna? (mokada une?),Inquiry,Neutral
+Nothing,Mokuth nae,Response to inquiry,Neutral
+Congratulations,Subha pathum,Celebration,Positive
+Happy Birthday,Subha upandinayak,Greeting,Positive
+Good morning,Subha udasanak,Greeting,Positive
+Good night,Subha rathriyak,Greeting,Positive
+What did you eat?,Mokada kewe?,Meal inquiry,Neutral
+I ate rice,Mama bath kewa,Meal response,Neutral
+Come here,Methanata enna,Command / Invitation,Neutral
+Go there,Eheta yanna,Command / Invitation,Neutral
+Sit down,Waadi wenna,Command,Neutral
+Stand up,Nagitinna,Command,Neutral
+Wait a minute,Winadiyak inna,Request for time,Neutral
+Let's go,Yamu,Action proposal,Positive
+Take care,Parissamin inna,Farewell advice,Positive
+Safe journey,Subha gaman,Travel blessing,Positive
+"Awesome video brother, let's keep doing it!","Patta video eka brother, digatama karamu!",YouTube Comment,Positive
+"Oh my goodness, what a waste of time and money.",Aiyyo salli.. kaalaya thama aparade meka balala.,YouTube Comment,Negative
+"This is superb, what is the background music track man?","Meka nam supiri, track eka mokakda mchan background eke?",YouTube Comment,Positive
+The editing of this video has a really great vibe.,Gathiyak thiyanawa video eke editing nam patta.,YouTube Comment,Positive
+Subscribed to the channel today. Keep up the good work!,Ada channel eka subscribe kala. Digatama karagena yanna!,YouTube Comment,Positive
+"Very valuable information, thank you for sharing this with us.","Godak watina thorathuru tikak, api ekka bedagaththata istuti.",YouTube Comment,Positive
+Your voice and explanation are not clear at all.,Oyaage adahasa saha katha karana vidihanam poddakwath pahadili na.,YouTube Comment,Negative
+"Waiting for the next episode, when will it be uploaded?",Ela mchan mawa next episode ekata palamuvenma kiyada enne?,YouTube Comment,Neutral
+"Be very careful with this, the items are not trustworthy.","Meka patta parissamen yanna bro, badu sure na.",Facebook Comment,Negative
+What is the price of this? Please send me a PM.,Price kiyada? Mata PM ekak danna puluwanda.,Facebook Comment,Neutral
+"Highly recommended, a very good product and fast delivery.","Highly recommended, hoda product ekak saha delivery ikmanatama thibba.",Facebook Comment,Positive
+Wasted my money buying this. It is completely useless and low quality.,"Aparade mekata salli damma. Melo rahak na, quality anthimai.",Facebook Comment,Negative
+Where is your shop located? Can I come today?,Oyalage shop eka koheda thiyenne? Mata ada enna puluwanda?,Facebook Comment,Neutral
+Is cash on delivery available for outstation areas?,Outstation valata cash on delivery thiyenawada?,Facebook Comment,Neutral
+"This is a total scam, don't buy from this page!","Meka boru horu godak, me page eken badu ganna epa mchan!",Facebook Comment,Negative
+"Beautiful collections, shared the post to my timeline.","Lassanai collections tika, mama post eka timeline ekata share kala.",Facebook Comment,Positive
+"Bro, are you going to the class tomorrow? Let me know.",Mchan heta class yanawada? Mata poddak kiyapan.,WhatsApp Message,Neutral
+"Dude I am coming now, wait for 5 minutes there.","Ado mama dan enawa, winadi 5k hitapan ethana.",WhatsApp Message,Neutral
+"That is awesome bro! Superb news, let's celebrate.","Eka niyamai mchan! Supiri news eka, celebrate karamu.",WhatsApp Message,Positive
+"I need a huge favor from you, please do this for me if you can.","Mata loku udawwak oni, puluwannam meka karala deepanko.",WhatsApp Message,Neutral
+"Call me back as soon as you see this message, it is urgent.","Meka dekka gaman mata call ekak ganna, urgent prashnayak.",WhatsApp Message,Urgent
+Can you send me the location? I am lost on the way.,Mata location eka ewanawada? Mama pare atharaman wela inne.,WhatsApp Message,Neutral
+"Don't worry about it, everything will be fine.","Eka prashnayak karaganna epa, okkoma hari yayi.",WhatsApp Message,Positive
+Are we meeting today or is it postponed to next week?,Api ada set wenawada nathnam lagatama postponed da heta?,WhatsApp Message,Neutral
+Had a little fun today with the gang! #srilanka #fun #vibes,Ada podi fun ekak gaththa kattiya ekka! #srilanka #fun #vibes,TikTok Caption,Positive
+This is absolute madness bro... this video needs to go viral!,Meka nam pissuwak bng... viral yanna oni me video eka!,TikTok Caption,Positive
+Sad status hours... no one is there to talk to me with affection.,Sad status thama ithin... kauruth na adaren katha karanna mage ekka.,TikTok Caption,Negative
+Trending dance challenge with my best friend. How is it? #trending,Trending dance challenge eka mage bestie ekka. Kohomada? #trending,TikTok Caption,Positive
+Wait until the end to see what happens! #funny #comedy,Mokada wenne kiyala balන්න (balanna) antima wenakam! #funny #comedy,TikTok Caption,Positive
+Life is beautiful when you enjoy the small moments. #motivation,Jiwithaya lassanai podi dewal sathutin baraganna kota. #motivation,TikTok Caption,Positive
+"Tried this new cafe today, the food was amazing! #foodie","Ada aluth cafe ekakata giya, kema nam supiri! #foodie",TikTok Caption,Positive
+Rate this outfit from 1 to 10 in the comments. #fashion,Meka comment karanna 1 indan 10 wenakam me outfit ekata. #fashion,TikTok Caption,Neutral
+"Bro, don't talk like an actor here, just tell me the final decision.","Ado mchan methana naluwa wage raga banne nathuwa, kiyapan antimata mokada karanne kiyala.",Conversational Expression,Negative
+"That person is always bragging and making a scene, but has zero substance inside.","Aru thama hamadamath boru show dapu ekamai, eth athulatama moko melo rahak na.",Social Commentary,Negative
+"Don't worry about minor failures, everything happens for a good reason.","Podi podi fail weem walata upset ganna epa ban, hama dema wenne hodakatayi.",Encouragement,Positive
+"He is completely broke right now, trying to manage somehow until the next salary.","Aru dan melo salliyak nathuwa anathaya wela inne, kohoma hari heta anidda weddi shape wenna balanawa pdi sal eken.",Financial Distress,Negative
+Please don't overcomplicate this simple problem and make it a mess.,Me nikan thiyana sarala prashnayak boruwata patalawala gu godak karaganna epa mchan.,Problem Solving,Negative
+I was completely trapped in traffic for two hours near the town today.,Ada nan patta traffic ekakata ahuwuna town eka gawa paya dekakma hirawela hitiya.,Traffic Complaint,Negative
+"Stop making excuses and lying to me, I know exactly what happened.","Boru baila gahala mawa andanna hadanna epa, mama dannawa ethana mokada une kiyala.",Conflict / Confrontation,Negative
+"That restaurant is just popular for photos on social media, the food tastes awful.","Oka nikan social media walata raga danna hoda place ekak vitharayi, kema nan palu yanna katha.",Restaurant Review,Negative
+"If you stay up late scrolling your phone like this every night, you will ruin your health.","Hama rathriyakatama mehema phone eka oban hithe nidi maruwoth, asaneepa wei ubata lagadima.",Health Advice,Negative
+"Don't act like a know-it-all here, we know you don't know anything about this topic.","Methana panditha talk danna enna epa ban, api dannawa oya topic eka gana oya melo deyak danne na kiyala.",Argument / Critique,Negative
+Can you quickly finish this task for me? I am running out of time.,Meka ikmanata godadala deepanko mchan? Mata welawa na dan godak.,Urgent Task Request,Urgent
+"He always gives promises to help, but breaks them at the last moment.",U thama hamadamath lokuwata katha karala udaw karannam kiyala antimata hulla thiyanne.,Disappointment / Betrayal,Negative
+"I feel so exhausted and low on energy today, I just want to stay in bed.","Ada patta mahansiyak danenne, melo energy ekak na... nidi gannama thama hithenne.",Physical Fatigue,Negative
+"The customer service here is incredibly slow, they don't value our time at all.","Munge customer service nan patta slow ban, minissunge kalaya gana melo value ekak na munto.",Service Critique,Negative
+"This phone's battery doesn't last even half a day, what a useless purchase.","Me phone eke battery eka baga dawasakwath adinne na, aparade dapu salli melo wadak na.",Product Review,Negative
+We need to plan this very carefully from the beginning to avoid any mistakes.,Api meka mul indanma parissamen plan karanna oni kisima mistake ekak nowenna.,Strategic Planning,Positive
+"Don't take his words seriously, he always talks nonsense when he is angry.","Uge katha serious ganna epa ban, kenthigiyama u nikan kiyawanne melo rahak nathi dewal.",Interpersonal Advice,Neutral
+"It was an unforgettable trip with friends, we had an amazing time together.","Kattiya ekka giya mathaka hithena trip ekak, patta fun ekak gaththa serama ekathu wela.",Travel Experience,Positive
+Are you out of your mind? Why did you make such a reckless decision?,Ubata pissuda ban? Ai me wage modama thiranayak gaththe hithanne balanne nathuwa?,Reckless Behavior Inquiry,Negative
+"He acts like a decent person on the outside, but his true character is very different.","U eliyen nan hoda pora wage ragapawata, aththa character eka patta wenas mchan.",Character Judgment,Negative
